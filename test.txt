@@ -1,0 +1,5 @@
+/home/disk2/nuclear/PCube_tmp/SUM/source_data/2019-11-080000000015
+/home/disk2/nuclear/PCube_tmp/SUM/source_data/2019-11-080000000263
+/home/disk2/nuclear/PCube_tmp/SUM/source_data/2020-09-070000017923
+/home/disk2/nuclear/PCube_tmp/SUM/source_data/2019-11-080000000033
+/home/disk2/nuclear/PCube_tmp/SUM/source_data/2019-11-080000000041
