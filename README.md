@@ -1,5 +1,18 @@
 # PCube3.0
 
+PCube 3.0 is a domain knowledge service system that focuses on individual entities. The main structure of the system is shown in the figure below. PCube 3.0 aims to mine and integrate multi-source heterogeneous information publicly available on the internet, providing services such as information retrieval and decision-making assistance.
+
+Its main functions include the following:
+
+(1) Based on the fusion of public data sources and domain knowledge, constructing a heterogeneous knowledge graph with individuals as the core through entity recognition, relationship extraction, and other technologies.
+
+(2) Building individual portraits using multimedia data such as news, encyclopedias, Twitter, and official websites for public figures.
+
+(3) Collecting and analyzing related hot events and their evolution, predicting the direction of events.
+
+(4) Providing information retrieval and decision-making assistance by integrating the above information.
+
+
 人立方3.0是一个以人物实体为核心的领域知识服务系统，该系统的主要结构如下图所示。人立方3.0旨在对网络上公开的多源异构信息进行挖掘和整合，提供信息的检索和辅助决策等服务。
 
 其主要功能包括以下几个方面：
